@@ -5,6 +5,6 @@
 
 ## Artykuły
 
-- Jak skonfigurować konto w Metamask
+- [Zakładanie portfela Metamask](/zakladanie-portfela-metamask.md)
 - Co takiego kryją domeny .xyz?
 - <miejsce na twój artykuł>
