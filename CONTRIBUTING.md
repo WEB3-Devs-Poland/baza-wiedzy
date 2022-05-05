@@ -8,3 +8,6 @@ Potem już z górki:
 - nie bój się commit-ować do gałęzi main :eyes: [trunk based development](https://trunkbaseddevelopment.com/)
 - :tada: pochwal się na swoich SM, że należysz do zacnego grona kontrybutorów!
 
+### Rozmiar obrazków
+
+Mamy workflow optymalizujący rozmiar (na dysku) obrazków, jednak by wykorzystać go w pełni postaraj się **przyciąć obrazki by dłuższy bok nie przekraczał 900 pikseli**. Dziękuję!
