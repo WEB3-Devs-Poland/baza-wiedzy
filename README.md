@@ -6,5 +6,5 @@
 ## Artykuły
 
 - [Zakładanie portfela Metamask](/zakladanie-portfela-metamask.md)
-- Co takiego kryją domeny .xyz?
+- [Alternatywy dla domen .eth w ENSie](/alternatywy-dla-domen-eth.md)
 - <miejsce na twój artykuł>
