@@ -8,3 +8,9 @@
 - [Zakładanie portfela Metamask](/zakladanie-portfela-metamask.md)
 - [Alternatywy dla domen .eth w ENSie](/alternatywy-dla-domen-eth.md)
 - <miejsce na twój artykuł>
+
+
+## Kursy
+
+- [Budowanie na Ethereum](https://github.com/WEB3-Devs-Poland/budowanie-na-ethereum)
+- <miejsce na twój kurs>
